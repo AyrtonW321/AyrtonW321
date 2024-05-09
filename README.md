@@ -7,13 +7,13 @@ Hi there! 😃 I'm Ayrton Wong, a high school student based in Canada passionate
 * 🐍 **Programming Languages:** Python
 * 🌐 **Web Development:** HTML, CSS, JavaScript
 * 🔧 **Hardware:** Arduino
-
+<!--
 **What I'm interested in:**
 
 * 🎨👁 **UI/UX Design:** I find the process of creating user-friendly and visually appealing interfaces fascinating. 
 * 🎮🚀 **Game Development (Unity - C#):** I'm eager to learn how to bring interactive experiences to life with Unity and C#.
 * 🏆🧠 **Competitive Programming (C++ & Python):** The challenge of solving problems efficiently using C++ and Python is something I want to delve into.
-* 🤖📈 **Machine Learning (Python):** I'm curious about the potential of machine learning and its applications using Python.
+* 🤖📈 **Machine Learning (Python):** I'm curious about the potential of machine learning and its applications using Python. -->
 
 **Looking forward to:**
 
