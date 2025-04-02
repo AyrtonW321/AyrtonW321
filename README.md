@@ -1,6 +1,6 @@
 ## Ayrton Wong
 
-Hi there! 😃 I'm Ayrton Wong, a high school student based in Canada passionate about UI/UX design and exploring various programming languages. 💻
+<!-- Hi there! 😃 I'm Ayrton Wong, a high school student based in Canada passionate about UI/UX design and exploring various programming languages. 💻
 
 **Current Skills:**
 
@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
