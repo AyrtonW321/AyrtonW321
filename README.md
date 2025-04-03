@@ -14,7 +14,7 @@
 * 🎮🚀 **Game Development (Unity - C#):** I'm eager to learn how to bring interactive experiences to life with Unity and C#.
 * 🏆🧠 **Competitive Programming (C++ & Python):** The challenge of solving problems efficiently using C++ and Python is something I want to delve into.
 * 🤖📈 **Machine Learning (Python):** I'm curious about the potential of machine learning and its applications using Python. -->
-
+<!--
 **Looking forward to:**
 
 * Contributing to open-source projects
